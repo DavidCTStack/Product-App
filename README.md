@@ -38,6 +38,7 @@ Aplicación frontend + backend construida con **React + Vite + TailwindCSS** y *
 
 ## 📁 Estructura del proyecto
 
+```bash
 product-search-app/
 ├── backend/
 │ ├── data/
@@ -52,6 +53,7 @@ product-search-app/
 │ ├── public/
 │ └── tailwind.config.js
 └── README.md
+```
 
 
 ---
