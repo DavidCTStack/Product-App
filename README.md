@@ -4,12 +4,6 @@ Aplicación frontend + backend construida con **React + Vite + TailwindCSS** y *
 
 ---
 
-## 🚀 Demo
-
-**[Video demo o enlace al despliegue opcional]**
-
----
-
 ## 🧩 Funcionalidades
 
 - Caja de búsqueda para ingresar productos.
