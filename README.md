@@ -102,5 +102,5 @@ La app se abrirá en http://localhost:5173
 
 ```bash
 David Carretero
-Frontend & Fullstack Developer
+Frontend Developer
 GitHub: @DavidCTStack
